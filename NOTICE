@@ -1,0 +1,13 @@
+TypeSafe AI SDK for Go
+
+This is an independent, unofficial Go port of the TypeSafe AI SDK. It is not
+maintained, sponsored, endorsed, or supported by TypeSafe.
+
+The implementation is derived from the official TypeSafe JavaScript SDK:
+https://github.com/typesafe-ai/typesafe-sdk-js
+
+The upstream implementation is Copyright (c) 2026 TypeSafe and is distributed
+under the MIT License reproduced in this repository. Modifications and the Go
+port are Copyright (c) 2026 Atheory.AI.
+
+"TypeSafe" and related names may be trademarks of their respective owners.

@@ -1,0 +1,20 @@
+# Secrets and local environment overrides
+.env
+.env.*
+!.env.example
+.envrc
+.direnv/
+
+# Go build and test artifacts
+bin/
+dist/
+coverage*.out
+*.test
+*.prof
+
+# Local tooling and operating-system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
