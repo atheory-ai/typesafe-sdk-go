@@ -16,7 +16,7 @@ access.
 
 ## Requirements
 
-- Go 1.24 or newer
+- Go 1.27.3 or newer
 - A TypeSafe API key
 
 ## Installation
